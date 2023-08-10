@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="PECheckerApp.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PECheckerDLL\PECheckerDLL.vcxproj">
+      <Project>{869e0c94-de10-410a-a909-565b6a041592}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -1,0 +1,14 @@
+﻿  PECheckerApp.cpp
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(126,31): warning C4311: 'reinterpret_cast': pointer truncation from 'char *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(126,31): warning C4302: 'reinterpret_cast': truncation from 'char *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(129,32): warning C4311: 'reinterpret_cast': pointer truncation from 'char *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(129,32): warning C4302: 'reinterpret_cast': truncation from 'char *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(130,46): warning C4311: 'reinterpret_cast': pointer truncation from 'IMAGE_IMPORT_DESCRIPTOR *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(130,46): warning C4302: 'reinterpret_cast': truncation from 'IMAGE_IMPORT_DESCRIPTOR *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(147,33): warning C4311: 'reinterpret_cast': pointer truncation from 'MyDllFunctionType' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(147,33): warning C4302: 'reinterpret_cast': truncation from 'MyDllFunctionType' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(150,37): warning C4311: 'reinterpret_cast': pointer truncation from 'IMAGE_THUNK_DATA *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(150,37): warning C4302: 'reinterpret_cast': truncation from 'IMAGE_THUNK_DATA *' to 'DWORD'
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(181,22): warning C4129: 'P': unrecognized character escape sequence
+D:\Projects\PEChecker\src\PECheckerApp\PECheckerApp.cpp(181,22): warning C4129: 'D': unrecognized character escape sequence
+  PECheckerApp.vcxproj -> D:\Projects\PEChecker\src\PECheckerApp\x64\Debug\PECheckerApp.exe

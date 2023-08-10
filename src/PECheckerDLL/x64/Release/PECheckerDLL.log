@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+     Creating library D:\Projects\PEChecker\src\PECheckerApp\x64\Release\PECheckerDLL.lib and object D:\Projects\PEChecker\src\PECheckerApp\x64\Release\PECheckerDLL.exp
+  Generating code
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PECheckerDLL.vcxproj -> D:\Projects\PEChecker\src\PECheckerApp\x64\Release\PECheckerDLL.dll
