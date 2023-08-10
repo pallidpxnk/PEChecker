@@ -4,9 +4,7 @@
 
 extern "C" __declspec(dllexport) void myDllFunction()
 {
-    std::cerr << "PECheckerDLL function was called!" << std::endl;
     OutputDebugString(L"PECheckerDLL function was called!\n");
-    MessageBox(NULL, L"PECheckerDLL function was called!", L"Debug Message", MB_OK);
 }
 
 BOOL APIENTRY DllMain( HMODULE hModule,
